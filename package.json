@@ -20,5 +20,6 @@
     "url":"git+https://github.com/coffeeandgrit/arbitrary-download"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "homepage": "https://github.com/coffeeandgrit/audio-stream-sandbox"
 }
