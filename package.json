@@ -1,6 +1,6 @@
 {
   "name": "arbitrary-download",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "allows for arbitrary downloads for testing",
   "main": "server.js",
   "dependencies": {
