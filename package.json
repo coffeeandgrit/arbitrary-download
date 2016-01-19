@@ -6,7 +6,7 @@
   "dependencies": {
     "async": "^1.5.2",
     "bluebird": "^3.1.1",
-    "cng-standalone": "^0.2.0",
+    "cng-standalone": "git://github.com/coffeeandgrit/standalone",
     "express": "^4.13.3",
     "serve-static": "^1.10.1"
   },
